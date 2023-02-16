@@ -58,5 +58,5 @@ If you want to contact me you can reach me at gigas64@opengrass.net
 License
 =======
 This project uses the following license:
-`GNU GPLv3 <https://choosealicense.com/licenses/gpl-3.0/>`_.
+`BSD 3-Clause <https://opensource.org/license/bsd-3-clause/>`_.
 
