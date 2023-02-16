@@ -51,4 +51,12 @@ You can clone the public repository with:
 
     $ git clone git@github.com:project-hadron/hadron-examples.git
 
+Contact
+=======
+If you want to contact me you can reach me at gigas64@opengrass.net
+
+License
+=======
+This project uses the following license:
+`GNU GPLv3 <https://choosealicense.com/licenses/gpl-3.0/>`_.
 
