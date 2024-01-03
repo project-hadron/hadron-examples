@@ -7,7 +7,6 @@
       <excludeFolder url="file://$MODULE_DIR$/jupyter/hello_hadron/.ipynb_checkpoints" />
       <excludeFolder url="file://$MODULE_DIR$/jupyter/hello_transformers/.ipynb_checkpoints" />
       <excludeFolder url="file://$MODULE_DIR$/jupyter/working/.ipynb_checkpoints" />
-      <excludeFolder url="file://$MODULE_DIR$/jupyter/xtras/.ipynb_checkpoints" />
       <excludeFolder url="file://$MODULE_DIR$/jupyter/.ipynb_checkpoints" />
       <excludeFolder url="file://$MODULE_DIR$/jupyter/hello_cataloging/hadron/data" />
       <excludeFolder url="file://$MODULE_DIR$/jupyter/hello_cataloging/data" />
@@ -16,17 +15,18 @@
       <excludeFolder url="file://$MODULE_DIR$/jupyter/hello_hadron/0_hello_meta/telco_churn/data" />
       <excludeFolder url="file://$MODULE_DIR$/jupyter/hello_hadron/hadron/data" />
       <excludeFolder url="file://$MODULE_DIR$/jupyter/working/hadron/data" />
-      <excludeFolder url="file://$MODULE_DIR$/jupyter/xtras/hadron/data" />
       <excludeFolder url="file://$MODULE_DIR$/jupyter/hello_hadron/hadron" />
-      <excludeFolder url="file://$MODULE_DIR$/jupyter/xtras/reference/.ipynb_checkpoints" />
-      <excludeFolder url="file://$MODULE_DIR$/jupyter/xtras/reference/logistic_regression/.ipynb_checkpoints" />
-      <excludeFolder url="file://$MODULE_DIR$/jupyter/xtras/reference/visuals/Matplotlib/.ipynb_checkpoints" />
-      <excludeFolder url="file://$MODULE_DIR$/jupyter/xtras/reference/visuals/Pandas Built-in Data Viz/.ipynb_checkpoints" />
-      <excludeFolder url="file://$MODULE_DIR$/jupyter/xtras/reference/visuals/Geographical Plotting/.ipynb_checkpoints" />
-      <excludeFolder url="file://$MODULE_DIR$/jupyter/xtras/reference/visuals/Seaborn/.ipynb_checkpoints" />
-      <excludeFolder url="file://$MODULE_DIR$/jupyter/xtras/reference/visuals/Plotly and Cufflinks/.ipynb_checkpoints" />
-      <excludeFolder url="file://$MODULE_DIR$/jupyter/xtras/reference/linear_regression/.ipynb_checkpoints" />
-      <excludeFolder url="file://$MODULE_DIR$/jupyter/xtras/reference/probability_distance/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/jupyter/Xtras/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/jupyter/Xtras/hadron/data" />
+      <excludeFolder url="file://$MODULE_DIR$/jupyter/Xtras/reference/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/jupyter/Xtras/reference/linear_regression/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/jupyter/Xtras/reference/logistic_regression/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/jupyter/Xtras/reference/probability_distance/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/jupyter/Xtras/reference/visuals/Geographical Plotting/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/jupyter/Xtras/reference/visuals/Matplotlib/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/jupyter/Xtras/reference/visuals/Pandas Built-in Data Viz/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/jupyter/Xtras/reference/visuals/Plotly and Cufflinks/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/jupyter/Xtras/reference/visuals/Seaborn/.ipynb_checkpoints" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
